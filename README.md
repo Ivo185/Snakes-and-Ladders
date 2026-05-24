@@ -23,10 +23,10 @@
 
 | Версия | Тема | Micro:bit |
 |--------|------|-----------|
-| `History-v1.0.zip` | История на България | ❌ |
-| `History-v1.1-microbit.zip` | История на България | ✅ |
-| `Geography-v2.0.zip` | География | ❌ |
-| `Geography-v2.1-microbit.zip` | География | ✅ |
+| `History-v1.0` | История на България | ❌ |
+| `History-v1.1-microbit` | История на България | ✅ |
+| `Geography-v2.0` | География | ❌ |
+| `Geography-v2.1-microbit` | География | ✅ |
 
 Свалете версията от [Releases](../../releases) според предпочитанията ви.
 
