@@ -21,40 +21,29 @@
 ## 📁 Структура на проекта
 
 ```
-Змии и стълби/
-├── V1 stable/                  # Версия 1 (без micro:bit)
-│   ├── Game.py                 # Основна игра
-│   ├── AddQuestions.py         # Редактор на въпроси
-│   ├── Въпроси.md              # База с въпроси (pipe-separated)
-│   ├── icon.ico                # Икона на приложението
-│   ├── img/
-│   │   ├── backrounds/         # Фонови изображения
-│   │   ├── buttons/            # Бутони за брой играчи и трудност
-│   │   ├── fireworks/          # Анимация при победа
-│   │   ├── house/              # Икона за начало
-│   │   ├── players/            # Аватари на играчите (p1–p6)
-│   │   └── zar/                # Изображения на зара (1–6)
-│   ├── sounds/                 # Звукови файлове (.wav, .mp3)
-│   └── other files/            # Photoshop файлове и допълнителни ресурси
-│
-└── V2 stable/                  # Версия 2 (с micro:bit поддръжка)
-    ├── Game.py                 # Основна игра (подобрена)
-    ├── AddQuestions.py         # Редактор на въпроси
-    ├── microbit_test.py        # Инструмент за тест на micro:bit връзката
-    ├── Micro-bit code.py       # Код за качване на micro:bit устройството
-    ├── Въпроси.md              # База с въпроси
-    ├── icon.ico
-    ├── img/
-    │   ├── backrounds/
-    │   ├── buttons/
-    │   ├── fireworks/
-    │   ├── house/
-    │   ├── players/
-    │   │   ├── p1–p6.png
-    │   │   └── svg/            # SVG версии на аватарите (ново в V2)
-    │   └── zar/
-    ├── sounds/
-    └── other files/
+├── README.md
+├── History/
+│   ├── Without micro-bit/
+│   │   ├── Game.py
+│   │   ├── AddQuestions.py
+│   │   └── Въпроси.md
+│   └── With micro-bit/
+│       ├── Game.py
+│       ├── AddQuestions.py
+│       ├── Micro-bit code.py
+│       ├── microbit_test.py
+│       └── Въпроси.md
+└── Geography/
+    ├── Without micro-bit/
+    │   ├── Game.py
+    │   ├── AddQuestions.py
+    │   └── Въпроси.md
+    └── With micro-bit/
+        ├── Game.py
+        ├── AddQuestions.py
+        ├── Micro-bit code.py
+        ├── microbit_test.py
+        └── Въпроси.md
 ```
 
 ---
