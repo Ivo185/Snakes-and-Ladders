@@ -36,28 +36,26 @@
 
 ```
 ├── README.md
-├── History/
-│   ├── Without micro-bit/
-│   │   ├── Game.py
-│   │   ├── AddQuestions.py
-│   │   └── Въпроси.md
-│   └── With micro-bit/
-│       ├── Game.py
-│       ├── AddQuestions.py
-│       ├── Micro-bit code.py
-│       ├── microbit_test.py
-│       └── Въпроси.md
-└── Geography/
-    ├── Without micro-bit/
-    │   ├── Game.py
-    │   ├── AddQuestions.py
-    │   └── Въпроси.md
-    └── With micro-bit/
-        ├── Game.py
-        ├── AddQuestions.py
-        ├── Micro-bit code.py
-        ├── microbit_test.py
-        └── Въпроси.md
+├── Geography-v2.1-microbit/
+    ├── Game.py
+    ├── AddQuestions.py
+    └── Въпроси.md
+└── Geography-v2.0/
+    ├── Game.py
+    ├── AddQuestions.py
+    ├── Micro-bit code.py
+    ├── microbit_test.py
+    └── Въпроси.md
+├── History-v1.0/
+    ├── Game.py
+    ├── AddQuestions.py
+    └── Въпроси.md
+└── History-v1.1-microbit/
+    ├── Game.py
+    ├── AddQuestions.py
+    ├── Micro-bit code.py
+    ├── microbit_test.py
+    └── Въпроси.md
 ```
 
 ---
