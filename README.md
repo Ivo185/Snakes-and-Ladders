@@ -36,11 +36,11 @@
 
 ```
 ├── README.md
-├── Geography-v2.1-microbit/
+├── Geography-v2.0/
     ├── Game.py
     ├── AddQuestions.py
     └── Въпроси.md
-└── Geography-v2.0/
+└── Geography-v2.1-microbit/
     ├── Game.py
     ├── AddQuestions.py
     ├── Micro-bit code.py
